@@ -264,8 +264,8 @@ def test_fold(to_chk_path, model, target_img_size, class_count, copy_err_files, 
 
 
 # configs
-root_path = r'F:\测试'
-test_path = root_path + r'\test_dataset'
+root_path = r'F:\bbps\data_root'
+test_path = root_path + '/test'
 
 model_name = 'resnet'
 weights_path = root_path + '/cache'
