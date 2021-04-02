@@ -240,11 +240,10 @@ def save_model(model, model_id, weights_path, save_weight=True):
 
 
 # configs
-root_path = r'F:\测试'
-all_img_path = root_path + '/res'
-train_path = root_path + '/res_train'
-valid_path = root_path + '/res_test'
-test_path = root_path + '/test'
+root_path = r'F:\bbps\data_root'
+all_img_path = root_path + '/all'
+train_path = root_path + '/train'
+valid_path = root_path + '/valid'
 train_valid_split_ratio = 0.2
 
 weights_path = root_path + '/cache'
