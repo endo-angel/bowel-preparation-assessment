@@ -12,6 +12,8 @@ from sklearn.metrics import confusion_matrix
 
 from tensorflow.keras.models import Model, model_from_json
 from tensorflow.keras import backend as K
+from tensorflow.python.keras.applications.densenet import preprocess_input as densenet_preprocess_input
+from tensorflow.python.keras.applications.xception import preprocess_input as xception_preprocess_input
 
 from utils import load_fold_data
 
