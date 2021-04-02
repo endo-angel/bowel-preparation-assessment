@@ -2,9 +2,9 @@
 Deep learning to assess the bowel preparation.
 
 # Main dependent tools
-python: 3.5+
-tensorflow: 1.12.x
-keras: 2.1.5
+* python: 3.5+
+* tensorflow: 1.12.x
+* keras: 2.1.5
 
 # About the author
 * Author
