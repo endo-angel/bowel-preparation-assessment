@@ -6,6 +6,9 @@ Deep learning to assess the bowel preparation.
 * tensorflow: 1.12.x
 * keras: 2.1.5
 
+# Pretrained modle
+* https://github.com/fchollet/deep-learning-models/releases/download/v0.2/resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5
+
 # About the author
 * Author
   * Renmin Hospital of Wuhan University & Wuhan EndoAngel Medical Technology Co., Ltd.
